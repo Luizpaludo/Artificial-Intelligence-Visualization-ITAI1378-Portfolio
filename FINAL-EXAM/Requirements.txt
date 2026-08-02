@@ -1,1 +1,9 @@
+ultralytics
+easyocr
+opencv-python
+matplotlib
+pandas
+torch
+torchvision
+Pillow
 
