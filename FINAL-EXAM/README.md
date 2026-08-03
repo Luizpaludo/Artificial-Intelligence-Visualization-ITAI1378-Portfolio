@@ -67,5 +67,5 @@ The completed project successfully detects license plates, recognizes the licens
 
 ## Author
 Luiz Paludo
-Houston Community College
+Houston City College
 Associate of Applied Science in Artificial Intelligence
