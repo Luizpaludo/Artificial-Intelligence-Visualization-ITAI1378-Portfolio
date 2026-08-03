@@ -83,7 +83,7 @@ The complete project, source code, documentation, notebooks, and results are ava
 **Luiz Paludo**
 
 Associate of Applied Science in Artificial Intelligence  
-Houston Community College
+Houston City College
 
 GitHub:
 https://github.com/Luizpaludo
