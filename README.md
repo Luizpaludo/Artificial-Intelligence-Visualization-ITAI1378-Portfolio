@@ -4,7 +4,7 @@
 
 Welcome to my ITAI1378 Artificial Intelligence Visualization Portfolio.
 
-This repository contains the projects, assignments, laboratory exercises, and final exam completed throughout the Artificial Intelligence Visualization course at Houston Community College.
+This repository contains the projects, assignments, laboratory exercises, and final exam completed throughout the Artificial Intelligence Visualization course at Houston City College.
 
 The purpose of this portfolio is to demonstrate the knowledge and practical skills I developed in artificial intelligence, computer vision, image processing, machine learning, deep learning, and related technologies using Python and Jupyter Notebook.
 
