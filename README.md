@@ -90,3 +90,5 @@ https://github.com/Luizpaludo
 
 LinkedIn:
 https://www.linkedin.com/in/luizpaludo/
+
+Email://luiz.h.paludo@gmail.com
